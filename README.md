@@ -8,3 +8,5 @@ Our Website is made with the following...
 Languages: HTML, CSS, JS
 
 If you like to contribute, Please open a issue or email us.
+
+Contact Us: contact@linuxydev.net 
