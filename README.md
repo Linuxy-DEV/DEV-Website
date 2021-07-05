@@ -7,4 +7,4 @@ Our Website is made with the following...
 
 Languages: HTML, CSS, JS
 
-If you like to contribute, [Discord Us](https://discord.gg/rM2n6Z8Y4A)
+If you like to contribute, [Discord](https://discord.gg/HGhtcfv8H4)
