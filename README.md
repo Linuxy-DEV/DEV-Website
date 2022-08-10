@@ -1,7 +1,7 @@
-![LinuxyDEV Logo](https://gitlab.com/linuxy-dev/website/raw/master/assist/assists/LInuxyDEV_LOGO_BLUE.png)
+![Linuxy Logo](https://gitlab.com/linuxy-dev/website/raw/master/assist/assists/Linuxy_LOGO_BLUE.png)
 
 
-### Our Frontend website for [LinuxyDEV.net](http://www.linuxydev.net)
+### Our Frontend website for [www.linuxy.org](http://www.www.linuxy.org)
 
 Our Website is made with the following...
 
