@@ -1,8 +1,8 @@
 /*
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 #  Main CSS is copyrigted by Linuxy of 2019  #
-#       - https://www.www.linuxy.org -         #
-#        - contact-us@www.linuxy.org -          #
+#         - https://www.linuxy.org -         #
+#        - contact-us@www.linuxy.org -       #
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 */
 
@@ -46,6 +46,12 @@ img.content {
     width: 50%;
     height: auto;
     padding: 70px;
+}
+img.content-1 {
+    width: 50%;
+    height: auto;
+    padding: 70px;
+    float: right;
 }
 
 h2.content {
